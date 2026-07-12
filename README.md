@@ -10,7 +10,7 @@ A modern and responsive furniture e-commerce website built with **HTML5**, **CSS
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** _Add your live demo link here_
+🔗 **Live Demo: (https://ehsanellahi1385-commits.github.io/Furni-shop/)
 
 ---
 
